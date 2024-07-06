@@ -13,6 +13,7 @@
 - 例： The U.S. <Note>established</Note> diplomatic relations with the P.R.C. <Note>in 1979</Note>. （美国与中华人民共和国于 1979 年建交。）
 
 <Tense img="/c3f01.png" />
+![项目Logo](../.vuepress/public/c3f01.png)
 
 此句中，以 in 1979 来修饰动词 establish（建立）的时间，表示美国与中华人民共和国建交发生在这段时间内，所以我们可以用括弧将 in 1979 括起来。而这个括弧在 now 的左边，属于过去时间，所以动词用 established，是过去时间的简单式。
 
