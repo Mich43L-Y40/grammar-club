@@ -1,7 +1,7 @@
 # 语法俱乐部 - [在线阅读](https://llwslc.github.io/grammar-club)
 
 <div align="center">
-  <a href="https://github.com/Mich43L-Y40/grammar-club">
+  <a href="https://mich431-y40.github.io/grammar-club/">
     <img src="docs/.vuepress/public/cover.png" alt="">
   </a>
  </div>
